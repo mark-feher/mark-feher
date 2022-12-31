@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mark-feher
-- 👀 I’m interested in Java, JavaScript
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Java, JavaScript & Spring
+- 🌱 I’m currently learning Java & Spring
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me maark.feheer@gmail.com
 
