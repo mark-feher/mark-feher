@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mark-feher
+- 👋 Hi, I’m Márk
 - 👀 I’m interested in Java, JavaScript & Spring
 - 🌱 I’m currently learning Java & Spring
 - 💞️ I’m looking to collaborate on ...
